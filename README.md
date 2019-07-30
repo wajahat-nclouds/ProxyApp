@@ -31,7 +31,7 @@ For Google, the registration steps are:
 - Take note of the Client ID and Client Secret
 
 ## oauth2_proxy
-- wget https://github.com/wajahat-nclouds/ProxyApp/oauth2_proxy-v3.2.0.linux-amd64.go1.11.tar.gz
+- wget https://github.com/wajahat-nclouds/ProxyApp/blob/master/oauth2_proxy-v3.2.0.linux-amd64.go1.11.tar.gz
 
 - tar xzvf  oauth2_proxy-v3.2.0.linux-amd64.go1.11.tar.gz
 
